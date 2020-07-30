@@ -28,7 +28,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 Note!!!
 Unfortunately, I do not have time to finish this challenge, however, I put a lot of effort into it. 
 What I did not do:
-1. part B, 
+1. part B
 2. On update, conflicts do not work
 3. Conflict only run on the date function
 Thank you!
