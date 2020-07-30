@@ -1,6 +1,6 @@
 # rose-rocket-challenge
 
-> A Vue.js project
+> A Vue.js project (Dispatcher/Driver Task Scheduling App)
 
 ## Build Setup
 
